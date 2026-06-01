@@ -4,7 +4,7 @@
 
 **Applied Geology · Data Science · Full-Stack AI**
 
-*IIT Kharagpur · Batch of 2026*
+*IIT Kharagpur · Batch of 2027*
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0a66c2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/shashi-bhushan22gg10043)
 [![Portfolio](https://img.shields.io/badge/Portfolio-111827?style=flat&logo=github&logoColor=white)](https://xprofess0r.github.io/Shashi_Portfolio/)
